@@ -31,6 +31,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ---
 
 ## Visuals
+<img width="1434" alt="scadd" src="https://user-images.githubusercontent.com/115510413/213667306-69de47a1-fd67-4476-81f6-63bad10a80dc.png">
+<img width="1438" alt="scdelete" src="https://user-images.githubusercontent.com/115510413/213667313-95aeea09-4bb3-490c-a6b7-bbdd80dc5153.png">
+<img width="1440" alt="scfrontpage" src="https://user-images.githubusercontent.com/115510413/213667316-ee7a426f-9cd2-4cae-ad8b-645daa4a8610.png">
 
 ---
 
