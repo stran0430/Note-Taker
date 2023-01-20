@@ -52,3 +52,9 @@ git@github.com:stran0430/Note-Taker.git
 ## Contact Information:
 
 - GitHub Username: [stran0430](https://github.com/stran0430)
+
+---
+
+## Deployed Application
+
+[Deployed Application](https://managetask.herokuapp.com/)
